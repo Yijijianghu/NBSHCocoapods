@@ -1,0 +1,6 @@
+framework module NBSHCocoapods {
+  umbrella header "NBSHCocoapods-umbrella.h"
+
+  export *
+  module * { export * }
+}

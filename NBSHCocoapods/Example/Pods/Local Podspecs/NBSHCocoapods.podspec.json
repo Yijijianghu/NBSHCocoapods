@@ -1,0 +1,22 @@
+{
+  "name": "NBSHCocoapods",
+  "version": "0.1.0",
+  "summary": "A short description of NBSHCocoapods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Yijijianghu/NBSHCocoapods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Yijijianghu": "2416472272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Yijijianghu/NBSHCocoapods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NBSHCocoapods/Classes/**/*"
+}

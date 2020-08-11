@@ -1,0 +1,16 @@
+PODS:
+  - NBSHCocoapods (0.1.0)
+
+DEPENDENCIES:
+  - NBSHCocoapods (from `../`)
+
+EXTERNAL SOURCES:
+  NBSHCocoapods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NBSHCocoapods: a3a79a0e547ba964b6eea7571a58f82822fb8ea0
+
+PODFILE CHECKSUM: 07f0c041128f2207fd76152e584a17133dbd514c
+
+COCOAPODS: 1.9.3
